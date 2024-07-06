@@ -6,6 +6,6 @@
 }
 .item {
   width: calc((100% - 30px) / 4);
-  height: 150px;
+  height: 200px;
   color: rgb(55, 14, 93);
 }
